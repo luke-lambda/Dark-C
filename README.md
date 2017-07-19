@@ -1,5 +1,1 @@
-rpg-text
-
-Constantes:
-
-hp --> health points;
+RPG Textual em C
