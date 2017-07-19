@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #define hp 40;
 
 int main(void){
@@ -15,13 +16,13 @@ int main(void){
 
     switch(escolhaClasse){
         case 1:
-            personClasse[50] = "guerreiro";
+            strcpy(personClasse, "Guerreiro");
         break;
         case 2:
-            personClasse[50] = "mago";
+            strcpy(personClasse, "Mago");
         break;
         case 3:
-            personClasse[50] = "cacador";
+            strcpy(personClasse, "Cacador");
         break;
         default:
             printf("Valor invalido.");      
