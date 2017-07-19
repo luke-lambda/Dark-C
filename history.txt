@@ -1,1 +1,7 @@
 O personagem é acordado por alguém, um amigo, que pertence ao exército local, uma pequena força de defesa que protege o pequeno vilarejo das ameaças da grande guerra e treinam para estarem prontos para uma possível convocação dos exércitos da grande cidade.
+
+O personagem recebe seu treinamento (momento de escolha da classe), após isso, seus status são mostrados e o personagem dorme.
+
+O jogo continua quando o personagem já possui 18 anos, ele acorda, anda pela casa e em seguida, pelo vilarejo e não encontra ninguém. Uma velha (com um manto cinza escuro, velho, caminhando lentamente) vem ao encontro dele.
+
+A velha diz que todos foram capturados, a BFD (Black Force of Destiny - exército da legião da cidade de Black, inimiga da grande cidade)
