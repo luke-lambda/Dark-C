@@ -1,1 +1,2 @@
-RPG Textual em C
+## RPG Textual em C
+### Descontinuado!
